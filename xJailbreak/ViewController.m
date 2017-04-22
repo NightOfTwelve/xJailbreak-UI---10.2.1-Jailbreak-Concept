@@ -14,6 +14,7 @@
     NSUserDefaults *defaults;
 }
 @end
+
 @implementation ViewController
 
 - (void)viewDidLoad {
@@ -110,6 +111,7 @@
     
     [self presentViewController:alert animated:YES completion:nil];
 }
+    
 
 -(void) Respring
 {
@@ -239,5 +241,7 @@
     NSLog(@">iOS: %@", [UIDevice currentDevice].systemVersion);
     NSLog(@">Launch the bug");
 }
+
+
 
 @end

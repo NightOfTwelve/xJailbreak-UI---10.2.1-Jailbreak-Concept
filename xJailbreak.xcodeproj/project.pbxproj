@@ -352,7 +352,7 @@
 				DEVELOPMENT_TEAM = 8D57P3C9SP;
 				INFOPLIST_FILE = xJailbreak/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Cryptic.xJailbreak;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Cryptic.xJailbreak;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -365,7 +365,7 @@
 				DEVELOPMENT_TEAM = 8D57P3C9SP;
 				INFOPLIST_FILE = xJailbreak/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = Cryptic.xJailbreak;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Cryptic.xJailbreak;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

@@ -20,6 +20,19 @@
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>UIApplicationShortcutItems</key>
+	<array>
+		<dict>
+			<key>UIApplicationShortcutItemIconType</key>
+			<string>UIApplicationShortcutIconTypePlay</string>
+			<key>UIApplicationShortcutItemSubtitle</key>
+			<string>GO</string>
+			<key>UIApplicationShortcutItemTitle</key>
+			<string>xJailbreak</string>
+			<key>UIApplicationShortcutItemType</key>
+			<string>xJailbreak</string>
+		</dict>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
